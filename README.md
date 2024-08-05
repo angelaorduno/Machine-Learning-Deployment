@@ -11,7 +11,7 @@ Deploy machine learning models in the cloud. Optimize ML models for a variety of
 - Optimize the performance of the deployed model.
 
 # Material covered in this course also develops the following Program Learning Outcomes (PLOs):
-PLO1: Use Python for AI and machine learning applications in data science
-PLO2: Explore optimization methods and algorithms.
-PLO3: Evaluate neural networks and deep learning models.
-PLO4: Deploy machine learning models in the cloud.
+- PLO1: Use Python for AI and machine learning applications in data science
+- PLO2: Explore optimization methods and algorithms.
+- PLO3: Evaluate neural networks and deep learning models.
+- PLO4: Deploy machine learning models in the cloud.
